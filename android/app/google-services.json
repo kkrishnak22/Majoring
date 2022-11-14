@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "732122146405",
+    "firebase_url": "https://eduk-54bb4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "eduk-54bb4",
+    "storage_bucket": "eduk-54bb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732122146405:android:1b023a32c103041801088c",
+        "android_client_info": {
+          "package_name": "com.appionic.majoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732122146405-eqiulc5dic45v1ue3cqdcec88gsglt4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appionic.majoring",
+            "certificate_hash": "1598c6411182db7da0bf6d0dc030e7498f0caa30"
+          }
+        },
+        {
+          "client_id": "732122146405-ek5vk5d20b31r5i2emgu0o3r0f4nh4vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl1xuHWbNztgHyIC-csw4jAFhLl_2tcv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732122146405-ek5vk5d20b31r5i2emgu0o3r0f4nh4vj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "732122146405-3ohl1a63ci3c0v90gialpa7id0nik2e3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eduk"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732122146405:android:d22a06c90334496701088c",
+        "android_client_info": {
+          "package_name": "com.example.eduk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732122146405-s6ailigt9740iqj7mlcqek9ic3pc2uej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eduk",
+            "certificate_hash": "1598c6411182db7da0bf6d0dc030e7498f0caa30"
+          }
+        },
+        {
+          "client_id": "732122146405-ek5vk5d20b31r5i2emgu0o3r0f4nh4vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl1xuHWbNztgHyIC-csw4jAFhLl_2tcv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732122146405-ek5vk5d20b31r5i2emgu0o3r0f4nh4vj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "732122146405-3ohl1a63ci3c0v90gialpa7id0nik2e3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eduk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
